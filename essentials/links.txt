@@ -1,0 +1,65 @@
+Typed
+http://redmonk.com/dberkholz/2013/03/25/programming-languages-ranked-by-expressiveness/
+
+HACKERRANK report:
+https://research.hackerrank.com/developer-skills/2018/
+
+Best Editors:
+http://blog.liveedu.tv/10-best-text-editors-programming-2016/
+
+Node.js"
+https://brainhub.eu/blog/9-famous-apps-using-node-js/
+
+AngularJS
+https://blog.eduonix.com/web-programming-tutorials/top-15-websites-and-apps-built-with-angularjs/
+
+https://repl.it/repls/OnlyInformalFactorial
+
+SQL:
+https://www.techrepublic.com/article/is-sql-a-legitimate-programming-language/
+
+mashable:
+https://mashable.com/2014/01/21/learn-programming-languages/#CEHozXFguaqG
+
+C++ application:
+http://www.stroustrup.com/applications.html
+
+top programming-languages:
+https://www.inc.com/larry-kim/10-most-popular-programming-languages-today.html
+
+popular websites:
+https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites
+
+SQL 4GL:
+https://www.techrepublic.com/article/is-sql-a-legitimate-programming-language/
+
+AngularJS
+https://tests4geeks.com/single-page-application-using-angularjs-tutorial/
+
+new thing:
+https://jekyllrb.com/
+
+
+list of websiyet main:
+https://www.wappalyzer.com/technologies/vue-js
+
+
+all frameworks:
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks
+
+Hadoop:
+http://searchcloudcomputing.techtarget.com/definition/Hadoop
+https://www.youtube.com/watch?time_continue=386&v=4DgTLaFNQq0
+
+
+Big DATA image:
+https://www.smartdatacollective.com/big-data-and-hadoop-development-2016/
+
+Java Frameworks:
+http://www.dailyrazor.com/blog/best-java-web-frameworks/
+
+frameworks fullform:
+https://stackoverflow.com/questions/13329485/what-does-mvw-stand-for
+
+
+

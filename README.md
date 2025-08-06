@@ -1,2 +1,0 @@
-# coderlanguages
-Single Page Application
